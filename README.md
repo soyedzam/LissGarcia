@@ -73,7 +73,7 @@ git push -u origin main
 
 ## PASO 4 · Reemplazar el dominio en los archivos
 
-Busca y reemplaza `TU-DOMINIO.com` por `lissgarcia.com` en:
+Busca y reemplaza `lissgarcia.com` por `lissgarcia.com` en:
 - `index.html`
 - `certificacion-capilar/index.html`
 - `sitemap.xml`, `robots.txt`, `llms.txt`, `llms-full.txt`
